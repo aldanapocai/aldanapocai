@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aldanapocai
-- 👀 I’m interested in learning new technologies, at the moment my main interest is Blockchain developement.  
-- 🌱 I’m currently learning Solidity. 
+- 👀 I’m interested in learning new technologies
 - 📫 How to reach me: linkedin.com/in/aldanapocai
 
 <!---
