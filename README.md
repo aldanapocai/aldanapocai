@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aldanapocai
-- 👀 I’m interested in learning new technologies
 - 📫 How to reach me: linkedin.com/in/aldanapocai
 
 <!---
